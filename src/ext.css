@@ -1,0 +1,10 @@
+.container {
+    width: 25%;
+    height: 10%;
+    display: flexbox;
+    font-size: 1.5rem;
+    padding: 1.5rem;
+    
+
+}
+
