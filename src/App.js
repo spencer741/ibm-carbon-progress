@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import 'carbon-components/css/carbon-components.css';
+import "carbon-components/css/carbon-components.css"
 import {Tile} from "carbon-components-react/lib/components/Tile";
 import Button from "carbon-components-react/lib/components/Button";
 import {ProgressIndicator,ProgressStep} from "carbon-components-react/lib/components/ProgressIndicator";
